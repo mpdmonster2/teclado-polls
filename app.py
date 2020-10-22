@@ -16,7 +16,7 @@ DISCORD_GET_CURRENT_USER = "https://discordapp.com/api/users/@me"
 
 DATABASE_URI = os.environ.get("DATABASE_URL", "postgres://postgres:1234@localhost:5432/polling")
 
-CLIENT_ID = "654393272189321237"
+CLIENT_ID = "768200412217999380"
 DISCORD_REDIRECT_URI = os.environ.get("DISCORD_AUTH_REDIRECT", "http://127.0.0.1:5000/authorize")
 QUOTED_DISCORD_REDIRECT_URI = quote(DISCORD_REDIRECT_URI, safe="")
 
