@@ -1,3 +1,3 @@
 import os
 
-CLIENT_SECRET = os.environ.get("DISCORD_SECRET_KEY")
+CLIENT_SECRET = os.environ.get("g4Ob72RxUApoZZ6_-mqcQHpR-UFETdTQ")
